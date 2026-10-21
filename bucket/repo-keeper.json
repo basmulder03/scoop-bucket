@@ -1,21 +1,21 @@
 {
-    "version": "0.1.0-beta.8",
+    "version": "0.1.0-beta.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.8/repo-keeper_0.1.0-beta.8_windows_amd64.zip",
+            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.9/repo-keeper_0.1.0-beta.9_windows_amd64.zip",
             "bin": [
                 "repo-keeper-tray.exe",
                 "repo-keeper.exe"
             ],
-            "hash": "60967d804694d71cf0dbd396503100f3d44aba329d258901e96c96514ca8fe27"
+            "hash": "e3f9cffdd2e9531fde2b17e2026bbf4ee012f9512baf1f1d67f2afd00a0ca362"
         },
         "arm64": {
-            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.8/repo-keeper_0.1.0-beta.8_windows_arm64.zip",
+            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.9/repo-keeper_0.1.0-beta.9_windows_arm64.zip",
             "bin": [
                 "repo-keeper-tray.exe",
                 "repo-keeper.exe"
             ],
-            "hash": "3c15c3a149be35c81d6b18a4ef5473e1d64b78718bc40682d5e3a24dd1aa20e8"
+            "hash": "53bc1080dfe1e5347a94b6afe2c7646f988075cfcd6524eb9d5c9f1d244376e7"
         }
     },
     "homepage": "https://github.com/basmulder03/repo-keeper",
