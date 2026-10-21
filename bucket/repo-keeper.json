@@ -1,18 +1,24 @@
 {
-    "version": "0.1.0-beta.7",
-    "description": "Keeps local clones of your remote repositories in sync, safely.",
-    "homepage": "https://github.com/basmulder03/repo-keeper",
-    "license": "Apache-2.0",
+    "version": "0.1.0-beta.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.7/repo-keeper_0.1.0-beta.7_windows_amd64.zip",
-            "hash": "aaf2fbc6e26066164fd3c22e0d47d5d48d45049d11aa03d495c789ef3b87a0e1",
-            "bin": ["repo-keeper.exe", "repo-keeper-tray.exe"]
+            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.8/repo-keeper_0.1.0-beta.8_windows_amd64.zip",
+            "bin": [
+                "repo-keeper-tray.exe",
+                "repo-keeper.exe"
+            ],
+            "hash": "60967d804694d71cf0dbd396503100f3d44aba329d258901e96c96514ca8fe27"
         },
         "arm64": {
-            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.7/repo-keeper_0.1.0-beta.7_windows_arm64.zip",
-            "hash": "4b5202880ea3f658e4de498c86853cba8c652fb0000c4d02f9fa129a098877bb",
-            "bin": ["repo-keeper.exe", "repo-keeper-tray.exe"]
+            "url": "https://github.com/basmulder03/repo-keeper/releases/download/v0.1.0-beta.8/repo-keeper_0.1.0-beta.8_windows_arm64.zip",
+            "bin": [
+                "repo-keeper-tray.exe",
+                "repo-keeper.exe"
+            ],
+            "hash": "3c15c3a149be35c81d6b18a4ef5473e1d64b78718bc40682d5e3a24dd1aa20e8"
         }
-    }
+    },
+    "homepage": "https://github.com/basmulder03/repo-keeper",
+    "license": "Apache-2.0",
+    "description": "Keeps local clones of your remote repositories in sync, safely."
 }
